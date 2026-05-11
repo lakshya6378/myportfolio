@@ -1,0 +1,21 @@
+{
+    "name": "Lakshya agarwal",
+    "short_name":"Lakshya",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color":"#051129",
+    "theme_color": "#051129",
+    "scope":".",
+    "icons": [
+        {
+            "src": "lakshya512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "lakshya192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
